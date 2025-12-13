@@ -35,23 +35,6 @@ payload:
 # > Dify AI
   - DOMAIN-SUFFIX,dify.ai
 
-# > Google AI / Gemini Full
-DOMAIN-SUFFIX,google.com,PROXY
-DOMAIN-SUFFIX,googleapis.com,PROXY
-DOMAIN-SUFFIX,googleusercontent.com,PROXY
-DOMAIN-SUFFIX,gstatic.com,PROXY
-DOMAIN-SUFFIX,deepmind.com,PROXY
-DOMAIN-SUFFIX,gemini.google.com,PROXY
-DOMAIN,ai.google.dev,PROXY
-DOMAIN,oauth2.googleapis.com,PROXY
-DOMAIN,people.googleapis.com,PROXY
-DOMAIN,securetoken.googleapis.com,PROXY
-DOMAIN,firebaseinstallations.googleapis.com,PROXY
-DOMAIN,fcm.googleapis.com,PROXY
-DOMAIN,mtalk.google.com,PROXY
-DOMAIN,play.googleapis.com,PROXY
-DOMAIN,dl.google.com,PROXY
-
 # > JetBrains AI
   - DOMAIN-SUFFIX,grazie.ai
   
