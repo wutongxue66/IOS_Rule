@@ -38,3 +38,4 @@ DOMAIN, content-autofill.googleapis.com
 DOMAIN-SUFFIX, google-analytics.com
 DOMAIN, analytics.google.com
 DOMAIN, oauthaccountmanager.googleapis.com
+HOST-SUFFIX, gstatic.com
