@@ -3,6 +3,7 @@
 # ================================
 
 # --- Gemini Core ---
+DOMAIN-SUFFIX, googleusercontent.com
 DOMAIN, gemini.google.com
 DOMAIN-SUFFIX, gemini.google.com
 DOMAIN, ai.google.dev
