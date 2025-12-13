@@ -1,0 +1,28 @@
+# ================================
+# Google Gemini (iOS)
+# ================================
+
+# --- Gemini Core ---
+DOMAIN,gemini.google.com
+DOMAIN-SUFFIX,gemini.google.com
+DOMAIN,ai.google.dev
+DOMAIN,makersuite.google.com
+
+# --- Identity / Account ---
+DOMAIN,accounts.google.com
+DOMAIN,oauth2.googleapis.com
+DOMAIN,people.googleapis.com
+
+# --- Google AI Backend ---
+DOMAIN-SUFFIX,generativeai.google
+DOMAIN-SUFFIX,deepmind.com
+DOMAIN-SUFFIX,deepmind.google
+DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,googleusercontent.com
+DOMAIN-SUFFIX,gstatic.com
+DOMAIN,ssl.gstatic.com
+DOMAIN,www.gstatic.com
+
+# --- Risk / Policy ---
+DOMAIN,csp.withgoogle.com
+DOMAIN,ogs.google.com
