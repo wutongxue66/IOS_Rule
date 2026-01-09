@@ -38,5 +38,21 @@
   - DOMAIN,loc6.map.control.googleapis.com
   - DOMAIN-SUFFIX,google-measurement.com
 
+# > NotebookLM Required (Core)
+  - DOMAIN,notebooklm.google.com
+  - DOMAIN-SUFFIX,notebooklm.google.com
+  - DOMAIN,notebooklm.google
+  - DOMAIN-SUFFIX,notebooklm.google
+  - DOMAIN-SUFFIX,notebooklm-pa.googleapis.com
+
+# > NotebookLM Auth & Data (Very Important)
+  - DOMAIN,accounts.google.com
+  - DOMAIN,oauth2.googleapis.com
+  - DOMAIN,drive.googleapis.com
+  - DOMAIN,docs.googleapis.com
+  - DOMAIN,www.googleapis.com
+  - DOMAIN,ssl.gstatic.com
+
+
 
 
