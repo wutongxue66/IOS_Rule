@@ -21,3 +21,10 @@
   - DOMAIN-SUFFIX,optimizationguide-pa.googleapis.com
   - DOMAIN,www.googleapis.com
   - DOMAIN,ssl.gstatic.com
+
+# > Google NotebookLM (Extra Fix)
+  - DOMAIN-SUFFIX,googlevideo.com
+  - DOMAIN-SUFFIX,google.jp
+  - DOMAIN,content-push.googleapis.com
+  - DOMAIN,play.googleapis.com
+
