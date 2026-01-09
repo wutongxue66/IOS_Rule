@@ -1,1 +1,8 @@
+# NotebookLM 专属域名
+HOST-SUFFIX, notebooklm.google, 日本节点
+HOST-SUFFIX, notebooklm.google.com, 日本节点
 
+# 必要的 Google 静态资源与组件
+HOST-KEYWORD, colab, 日本节点
+HOST-SUFFIX, googleusercontent.com, 日本节点
+HOST-SUFFIX, gstatic.com, 日本节点
