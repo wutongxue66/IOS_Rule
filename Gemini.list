@@ -14,3 +14,10 @@
   - DOMAIN-SUFFIX,googleusercontent.com
   - DOMAIN-SUFFIX,googleapis.com
   - DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
+
+# > Google NotebookLM
+  - DOMAIN-SUFFIX,notebooklm.google
+  - DOMAIN-SUFFIX,notebooklm-pa.googleapis.com
+  - DOMAIN-SUFFIX,optimizationguide-pa.googleapis.com
+  - DOMAIN,www.googleapis.com
+  - DOMAIN,ssl.gstatic.com
