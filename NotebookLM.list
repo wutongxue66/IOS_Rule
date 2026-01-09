@@ -1,9 +1,2 @@
 # > Google NotebookLM & AI
-  - DOMAIN,notebooklm.google
-  - DOMAIN-SUFFIX,notebooklm.google.com
-  - DOMAIN-SUFFIX,notebooklm.google
-
-# > Google Static & Connectivity (解决 www.gstatic.com:80 访问问题)
-  - DOMAIN,www.gstatic.com
-  - DOMAIN-SUFFIX,gstatic.com
-  - DOMAIN,accounts.google.com
+  - DOMAIN-SUFFIX,googleapis.com
