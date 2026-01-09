@@ -1,12 +1,9 @@
-# > Google NotebookLM
+# > Google NotebookLM & AI
   - DOMAIN,notebooklm.google
   - DOMAIN-SUFFIX,notebooklm.google.com
   - DOMAIN-SUFFIX,notebooklm.google
-  
-# > NotebookLM Dependencies (Google Docs & Storage)
-  - DOMAIN-SUFFIX,googleusercontent.com
+
+# > Google Static & Connectivity (解决 www.gstatic.com:80 访问问题)
+  - DOMAIN,www.gstatic.com
   - DOMAIN-SUFFIX,gstatic.com
-  - DOMAIN-KEYWORD,colab
-  
-# > Google OAuth & Identity (Necessary for Login)
   - DOMAIN,accounts.google.com
