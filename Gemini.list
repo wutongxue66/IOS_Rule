@@ -34,4 +34,9 @@
   - DOMAIN-KEYWORD,indices-pa.googleapis.com
   - DOMAIN-SUFFIX,update.googleapis.com
 
+# > Google NotebookLM Final Fix
+  - DOMAIN,loc6.map.control.googleapis.com
+  - DOMAIN-SUFFIX,google-measurement.com
+
+
 
